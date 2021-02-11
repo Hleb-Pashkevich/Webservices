@@ -1,0 +1,19 @@
+{
+  "name": "webservices",
+  "version": "1.0.0",
+  "description": "Module 12",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "webservices"
+  ],
+  "author": "Hleb Pashkevich",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "chai": "^4.3.0",
+    "mocha": "^8.2.1"
+  }
+}
